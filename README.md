@@ -1,6 +1,6 @@
 # fantaski
 
-專題專案 —— 前端開發框架 React.js
+資策會專題 —— 前端開發框架 React.js
 
 ## 主要負責內容
 
@@ -37,7 +37,7 @@
 + https://github.com/Eddiewei0617/fantaski
 
 ***
-成果發表影片連結(3:57:20~4:04:40)： https://www.youtube.com/watch?v=Yc3ch-NmZH4
+成果發表影片連結(3:37:17處開始)： https://youtu.be/Yc3ch-NmZH4?t=13037
 
 ***
 ** 如有侵權還請速來信(leejunkilowinnive@gmail.com)告知，感謝！ **
