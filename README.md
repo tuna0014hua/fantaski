@@ -1,11 +1,43 @@
 # fantaski
 
-### 請在 public 資料夾裡建 styles 資料夾放 css 相關檔案
+專題專案 —— 前端開發框架 React.js
 
-### 在 src 資料夾建立 components 資料夾放元件
+## 主要負責內容
 
-### 在 src 資料夾裡建 pages 放你所需要的頁面網址檔案
+**主導網站整體設計風格走向**
 
-# 最後再次強調!!!僅 PUSH 到自己的分支，再 merge 回 main 分支!!!!!!!!!!
++ **版面Wireframe**
+  - https://www.figma.com/file/olmNULBx3H0xPVv3zbWntB/ski?node-id=0%3A1
 
-專題 GOGO! 大家一起加油! 我們一定行!
+**首頁**
++ 視差滾動
++ animation 動畫特效
++ 論壇文章、留言即時更新
++ 課程報名狀態即時更新
++ 路線資訊互動效果
++ 商品輪播切換功能
+
+
+**登入/登出、註冊頁**
++ sliding window(滑動視窗)
++ 用regular expression(正規表達式)實現表單欄位檢核功能
+
+
+**共用元件**
++ Navigation bar
+  + 捲軸滑動特效
++ footer
++ go top
+
+
+**期末專題簡報說明**
++ https://www.canva.com/design/DAExyLIFgSw/VhEaULl5-0br9NHCkYorsw/view?utm_content=DAExyLIFgSw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+**Git flow**
++ https://github.com/Eddiewei0617/fantaski
+
+***
+成果發表影片連結(3:57:20~4:04:40)： https://www.youtube.com/watch?v=Yc3ch-NmZH4
+
+***
+** 如有侵權還請速來信(leejunkilowinnive@gmail.com)告知，感謝！ **
